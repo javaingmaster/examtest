@@ -7,8 +7,8 @@
 *.iml
 out
 gen
-/stream/target/
-/MyMap/target/
-/LoL/target/
-/lambda/target/
-/AbstractFactory/target/
+/stream/target
+/MyMap/targeta
+/LoL/target
+/lambda/target
+/AbstractFactory/target
